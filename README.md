@@ -2,8 +2,6 @@
 
 CSE @ University of Michigan, College of Engineering
 
-SPARK Electric Racing, Software Team
+DevOps Lead, [SPARK Electric Racing](https://spark.engin.umich.edu)
 
-## Resume
-
-Check out my resume [here](./resume/Liam_Mulcahy_W23.pdf)
+Research Assistant, Hazel Project @ [FP Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1)
