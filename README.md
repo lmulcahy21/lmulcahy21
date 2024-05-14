@@ -1,7 +1,9 @@
 # Liam (Scotty) Mulcahy
 
-CSE @ University of Michigan, College of Engineering
+Masters Student (MSE, CS) @ University of Michigan
+
+BSE in CS @ University of Michigan
 
 DevOps Lead, [SPARK Electric Racing](https://spark.engin.umich.edu)
 
-Research Assistant, Hazel Project @ [FP Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1)
+Research Assistant, [Hazel](https://hazel.org/) @ [FP Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1)
